@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "sshAgent.sshAuthorizatonModel": "application",
+  "ui.routes.lastUsedRoute": "{\"type\":\"ItemList\",\"content\":{\"unlockedRoute\":{\"collectionUuid\":\"WR7QGOOJ2NGUPHE6FWXSTJ4EQE\"},\"itemListType\":{\"type\":\"Vault\",\"content\":\"5\"},\"category\":null,\"sortBehavior\":null}}",
+  "authTags": {
+    "sshAgent.sshAuthorizatonModel": "Sewrb8yC8T+eYIVw5hx4JHBCbfKfWn/YtMDZjW9QtW0",
+    "ui.routes.lastUsedRoute": "UVnkIzKQxVnzaErGvVGrFr6/+uXQvImVQckyc2Fqg1w"
+  }
+}
