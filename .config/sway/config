@@ -216,8 +216,9 @@ bar {
 
 # Configure touchpad
 input type:touchpad {
-    tap enabled
-    natural_scroll enabled
+    tap enabled                # enables tap to click
+    natural_scroll enabled     # scrolling in the right direction
+    click_method clickfinger   # found on https://github.com/swaywm/sway/issues/4140 to fix similar issue
 }
 
 include /etc/sway/config.d/*

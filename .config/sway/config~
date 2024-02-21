@@ -214,4 +214,10 @@ bar {
     }
 }
 
+# Configure touchpad
+input type:touchpad {
+    tap enabled
+    natural_scroll enabled
+}
+
 include /etc/sway/config.d/*
